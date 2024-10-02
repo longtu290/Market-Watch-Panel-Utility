@@ -8,9 +8,7 @@
 #property link "https://www.mql5.com/en/users/longtu290"
 #property strict
 #property version   "1.00"
-#include <Controls\Defines.mqh>
 #include <Controls\Label.mqh>
-#include <Controls\Edit.mqh>
 #undef CONTROLS_DIALOG_COLOR_BG
 #undef CONTROLS_DIALOG_COLOR_CAPTION_TEXT
 #undef CONTROLS_DIALOG_COLOR_CLIENT_BG
