@@ -5,6 +5,7 @@
 //+------------------------------------------------------------------+
 #property copyright "Copyright © 2024, Long Tien Tu."
 #property description "Market Watch Panel: A custom panel for real-time monitoring of symbol current prices with easy symbol stacking and filtering for a streamlined trading experience."
+#property link "https://www.mql5.com/en/users/longtu290"
 #property strict
 #property version   "1.00"
 #include <Controls\Defines.mqh>
