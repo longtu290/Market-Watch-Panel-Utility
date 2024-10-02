@@ -273,7 +273,9 @@ void CControlsDialog::OnClickBmpButton1(void)
       Print("No symbol entered. Please type a symbol in the text input field.");
      }
   }
-//---
+//+------------------------------------------------------------------+
+//|Save Symbols To File                                              |
+//+------------------------------------------------------------------+
 void SaveSymbolsToFile()
   {
    Print("SaveSymbolsToFile() function called.");
@@ -302,7 +304,7 @@ void SaveSymbolsToFile()
      }
   }
 //+------------------------------------------------------------------+
-//|                                                                  |
+//| LoadSymbolsFromFile                                              |
 //+------------------------------------------------------------------+
 void LoadSymbolsFromFile()
   {
