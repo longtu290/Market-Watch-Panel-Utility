@@ -22,7 +22,6 @@ input color    dialog_main_text_color     = clrPurple;         // Panel main tex
 #define CONTROLS_DIALOG_COLOR_CAPTION_TEXT dialog_color_caption_text // Panel text color
 #define CONTROLS_DIALOG_COLOR_CLIENT_BG   dialog_color_client_bg     // Panel client background
 #include <Controls\Dialog.mqh>
-#include <Controls\BmpButton.mqh>
 int base_x1 = 5, base_y1 = 10;  // Base coordinates for MyLabel3
 // Declare a dynamic array of label pointers
 CLabel *LabelArray[];
