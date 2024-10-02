@@ -14,3 +14,12 @@ The utility also includes the ability to store symbols in a text file, ensuring 
 - **Panel text color:** Defines the color of the text displayed on the panel (default: DarkBlue).  
 - **Panel client background:** Adjusts the background color of the client area within the panel (default: LightGray).  
 - **Panel main text color:** Specifies the main text color within the panel (default: Purple).
+
+### To customize the button image in the Market Watch Panel Utility, follow these steps:
+
+- Place your own BMP image (24-bit format) in the `MQL5/Images` folder.  
+- Modify the code to reference your custom image by changing the resource path to point to the new image file.  
+- Ensure the image is correctly formatted and the path is accurate to avoid errors during compilation.
+
+This allows users to personalize the panel by using their own button images.
+
