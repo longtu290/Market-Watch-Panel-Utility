@@ -1,6 +1,6 @@
 # The Market Watch Panel Utility
 
-Here is an example of an image in this README:
+Panel demonstration:
 
 ![My Awesome Image](Screenshot.png)
 The Market Watch Panel Utility provides real-time monitoring of financial symbols, displaying key data like close prices in a clean and intuitive interface. Designed for MetaTrader 5, this tool allows traders to quickly switch between symbols, stack multiple symbols, and filter the list for focused market analysis. It offers a streamlined, customizable trading experience, making it easy to track market movements and make informed decisions efficiently.
