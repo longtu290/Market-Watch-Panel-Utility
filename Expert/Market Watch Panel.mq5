@@ -12,7 +12,8 @@
 #undef CONTROLS_DIALOG_COLOR_BG
 #undef CONTROLS_DIALOG_COLOR_CAPTION_TEXT
 #undef CONTROLS_DIALOG_COLOR_CLIENT_BG
-
+#resource "\\Images\\images.bmp"
+#resource "\\Images\\rsz_1a.bmp"
 input color    dialog_color_bg            = clrWhite;             // Panel background color
 input color    dialog_color_caption_text  = clrDarkBlue;          // Panel text color
 input color    dialog_color_client_bg     = clrLightGray;         // Panel client background
